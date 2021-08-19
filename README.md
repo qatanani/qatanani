@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @qatanani
+- 👋 Hi, I’m Ihsan Qatanani
 - 👀 I’m interested in computer & plants
-- 🌱 I’m currently learning how to get our rabbits away from the plants :-)
+- 🌱 I’m currently learning how to get our rabbits away from my plants :-)
 - 💞️ I’m looking to collaborate on Python 3
 - 📫 How to reach me ...
 
